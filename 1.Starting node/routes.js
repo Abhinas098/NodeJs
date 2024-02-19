@@ -53,4 +53,4 @@ const reqHandler = (req, res) => {
 // };
 
 exports.handler = reqHandler;
-exports.text = "Hell World!";
+exports.text = "Hello Nodemon";
